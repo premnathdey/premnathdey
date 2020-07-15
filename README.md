@@ -5,7 +5,7 @@
   <img width="250" src="https://github.com/premnathdey/premnathdey/blob/master/image/premnathdey.mov">
   <br><br>
   <samp>
-    I'm Prem Nath Dey currently a Third Year CSE student at <a href="http://iiitkalyani.ac.in">@IIT :Institute: </a> and aspiring software developer:computer:. Interested in working on frontend,  backend, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm Prem Nath Dey currently a Forth Year CSE student at <a href="http://iiitkalyani.ac.in">@IIIT :Institute: </a> and aspiring software developer:computer:. Interested in working on frontend,  backend, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
