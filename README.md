@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="./image/premnathdey.gif"/></a>
+<a href= "./image/premnathdey.gif"><img src="./image/premnathdey.gif"/></a>
 <a href= "https://twitter.com/premnathdey"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
