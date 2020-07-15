@@ -17,8 +17,8 @@
 </a>
 
 <a href="https://t.me/premnathdey">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/telegram.svg" />
-</a><br/><br/>
+  <img align="center" alt="Prem Nath Dey" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/telegram.svg" />
+</a>
 
 </p>
 
