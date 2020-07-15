@@ -1,7 +1,7 @@
 ### Hi there 👋🏾  welcome to my Github! I like to write in Python and I'm exploring Cloud Tech 🐍 ☁️
 
 <p align="center">
-  <img width="250" src="./image/premnathdey.gif">
+  <img width="250" src="https://github.com/premnathdey/premnathdey/blob/master/image/premnathdey.gif">
 </p>
 
 
