@@ -6,9 +6,19 @@
 
 
 <p align="center">
-<a href= ""><img src="./image/insta.jpeg"/></a>
-<a href= "https://twitter.com/premnathdey"><img src="./image/telegram.png""/></a>
-<a href= "https://twitter.com/premnathdey"><img src="./image/twitter.jpg"/></a>
+<a href="https://twitter.com/premnathdey">
+  <img align="center" alt="Prem Nath Dey Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="#">
+  <img align="center" alt="Vedant Jajoo Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/premnathdey">
+  <img align="center" alt="Prem Nath Dey Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
+<a href="https://t.me/premnathdey">
+  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/telegram.svg" />
+</a><br/><br/>
 
 </p>
 
