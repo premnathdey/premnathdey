@@ -28,9 +28,9 @@
 </a>
 
 </p>
-
+<br></br>
 <p align="center">
-<h1>Check out my repos ⬇️</h1>  
+Check out my repos ⬇️  
 </p>
 
 <!--
