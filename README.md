@@ -1,7 +1,20 @@
-### Hi there 👋
+### Hi there 👋🏾  welcome to my Github! I like to write in Python and I'm exploring Cloud Tech 🐍 ☁️
 
-<!--
-**premnathdey/premnathdey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="./image/premnathdey.gif"/></a>
+<a href= "https://twitter.com/premnathdey"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
 
 Here are some ideas to get you started:
 
