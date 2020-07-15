@@ -4,13 +4,17 @@
   <img width="250" src="https://github.com/premnathdey/premnathdey/blob/master/image/premnathdey.mov">
 </p>
 
+### Tools :fire:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
+|:---:|:---:|:---:|
 
+### Connect with me :smiley:
 <p align="center">
 <a href="https://twitter.com/premnathdey">
   <img align="center" alt="Prem Nath Dey Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="#">
-  <img align="center" alt="Vedant Jajoo Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+<a href="https://www.instagram.com/prem_nath_dey/">
+  <img align="center" alt="Prem Nath Dey" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/premnathdey">
   <img align="center" alt="Prem Nath Dey Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
