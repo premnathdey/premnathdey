@@ -6,9 +6,9 @@
 
 
 <p align="center">
-<a href= "./image/premnathdey.gif"><img src="./image/premnathdey.gif"/></a>
-<a href= "https://twitter.com/premnathdey"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://twitter.com/premnathdey"><img src="https://www.flaticon.com/authors/instagram"/></a>
+<a href= ""><img src="./image/insta.jpeg"/></a>
+<a href= "https://twitter.com/premnathdey"><img src="./image/telegram.png""/></a>
+<a href= "https://twitter.com/premnathdey"><img src="./image/twitter.jpg"/></a>
 
 </p>
 
