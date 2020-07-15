@@ -1,12 +1,15 @@
-### Hi there 👋🏾  welcome to my Github! I like to write in Python and I'm exploring Cloud Tech 🐍 ☁️
+### Hi there 👋🏾  welcome to my Github! 
+
 
 <p align="center">
   <img width="250" src="https://github.com/premnathdey/premnathdey/blob/master/image/premnathdey.mov">
+  <br><br>
+  <samp>
+    I'm Prem Nath Dey currently a Third Year CSE student at <a href="http://iiitkalyani.ac.in">@IIT :Institute: </a> and aspiring software developer:computer:. Interested in working on frontend,  backend, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+  </samp>
 </p>
 
-### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
-|:---:|:---:|:---:|
+
 
 ### Connect with me :smiley:
 <p align="center">
@@ -27,7 +30,7 @@
 </p>
 
 <p align="center">
-Check out my repos ⬇️  
+<h1>Check out my repos ⬇️</h1>  
 </p>
 
 <!--
