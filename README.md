@@ -8,6 +8,8 @@
 <p align="center">
 <a href= "./image/premnathdey.gif"><img src="./image/premnathdey.gif"/></a>
 <a href= "https://twitter.com/premnathdey"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/premnathdey"><img src="https://www.flaticon.com/authors/instagram"/></a>
+
 </p>
 
 <p align="center">
